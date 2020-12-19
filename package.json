@@ -1,0 +1,24 @@
+{
+  "name": "market-maker-bot",
+  "version": "1.0.0",
+  "description": "A crypto currency trading bot using the market maker strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purdonkle/crypto-market-maker-trading-bot.git"
+  },
+  "author": "Adam Purdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purdonkle/crypto-market-maker-trading-bot/issues"
+  },
+  "homepage": "https://github.com/purdonkle/crypto-market-maker-trading-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "ccxt": "^1.39.51",
+    "dotenv": "^8.2.0"
+  }
+}
